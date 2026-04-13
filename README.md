@@ -51,14 +51,6 @@ MCA student passionate about building full-stack web applications. I learn by do
 
 ---
 
-## 🚀 Projects
-
-I'm building real-world projects to strengthen my skills. Check out my repositories to see what I'm working on!
-
-> *Coming soon: Project showcase with links and descriptions*
-
----
-
 ## 🌐 Connect With Me
 
 I'm always open to collaborations, discussions, and feedback. Feel free to reach out!
@@ -70,5 +62,3 @@ I'm always open to collaborations, discussions, and feedback. Feel free to reach
 **Have a project idea or just want to chat?** Open an issue or reach out directly. I'd love to collaborate! 🚀
 
 ---
-
-<h3 align="center">⭐ If you find my work interesting, consider giving it a star! ⭐</h3>
